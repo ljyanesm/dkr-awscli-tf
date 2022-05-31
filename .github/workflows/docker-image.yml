@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ljyanesm/dkr-awscli-tf:main,ljyanesm/dkr-awscli-tf:latest,ljyanesm/dkr-awscli-tf:$(date +%s)
+        tags: dkr-awscli-tf:main,dkr-awscli-tf:latest
